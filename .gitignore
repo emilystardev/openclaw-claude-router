@@ -1,0 +1,6 @@
+.env
+proxy.pid
+proxy.log
+router.log
+logs/
+node_modules/
